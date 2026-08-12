@@ -1,0 +1,15 @@
+{
+  "features": [
+    "nitrogen",
+    "phosphorus",
+    "potassium",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall",
+    "npk_total",
+    "n_to_pkratio",
+    "temp_humidity",
+    "rainfall_humidity"
+  ]
+}
